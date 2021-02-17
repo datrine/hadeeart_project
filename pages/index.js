@@ -1,4 +1,4 @@
-export function Index(params) {
+export default function Index(params) {
     return<>
     Hadeeart homepage...
     </>
